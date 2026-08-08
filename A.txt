@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Today is Saturday.
+=======
+Today is Saturday.
+>>>>>>> aa92fe1a4f5be289e0c3b274799771b30c8a9d2f
